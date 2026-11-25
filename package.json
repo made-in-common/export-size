@@ -5,12 +5,12 @@
   "packageManager": "pnpm@12.3.4",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/antfu/export-size#readme",
+  "homepage": "https://github.com/made-in-common/export-size#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/export-size.git"
+    "url": "git+https://github.com/made-in-common/export-size.git"
   },
-  "bugs": "https://github.com/antfu/export-size/issues",
+  "bugs": "https://github.com/made-in-common/export-size/issues",
   "exports": {
     ".": "./dist/index.mjs",
     "./cli": "./dist/cli.mjs",
